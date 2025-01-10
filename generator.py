@@ -1,4 +1,5 @@
 import os
+import glob
 import json
 from PIL import Image, ImageDraw
 
@@ -6,6 +7,10 @@ with open('barvy.json', 'r', encoding='utf-8') as seznam:
     seznam = json.loads(seznam.read())
 
 os.makedirs('palety', exist_ok=True)
+
+files = glob.glob('palety/*')
+for f in files:
+    os.remove(f)
 
 def create_color_squares(colors, name, square_size=100, padding=10, height=60):
     """
@@ -58,7 +63,7 @@ for paleta, vlastnosti in seznam.items():
 
     export += "\n\n"
 
-print(export)
+print("README.md přegenerován.")
 
 with open('README.md', 'w+', encoding='utf-8') as readme:
     readme.write(export.strip())
