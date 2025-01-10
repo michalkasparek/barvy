@@ -46,7 +46,7 @@ def create_color_squares(colors, name, square_size=100, padding=10, height=60):
     # Save the image
     img.save(os.path.join('palety',f'{name}.png'))
 
-export = f"{len(seznam)} barevných palet vytahaných z obrázkových knih.\n\n"
+export = f"{len(seznam)} barevných palet vytahaných z obrázkových knih.\n\nRychlý import palet do kódu:\n\n1. ```wget https://github.com/michalkasparek/barvy/blob/master/barvy.json```\n\n2. ```with open('barvy.json', 'r', encoding='utf-8') as seznam:```\n```seznam = json.loads(seznam.read())```\n\n3. ```barvy[název_palety]['rgb']```\n\n"
 
 for paleta, vlastnosti in seznam.items():
 
@@ -60,7 +60,7 @@ for paleta, vlastnosti in seznam.items():
         pass
 
     export += "\n\n"
-    export += str(vlastnosti['rgb'])
+    export += "```" + str(vlastnosti['rgb']) + "```"
     export += "\n\n"
 
     create_color_squares(vlastnosti['rgb'], paleta)
