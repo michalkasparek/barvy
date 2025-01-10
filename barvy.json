@@ -1,4 +1,17 @@
 {
+    "jak_s_tim_pohnu_102": {
+        "rgb": [
+            "#D6534B",
+            "#445B78",
+            "#DB842F",
+            "#70871E",
+            "#EED801",
+            "#5E2D3A",
+            "#81A9D5"
+        ],
+        "online_zdroj": "https://www.digitalniknihovna.cz/mzk/view/uuid:e5747fb0-81c3-11e3-a6e0-005056827e52?page=uuid:76393b40-8c63-11e3-bbb0-5ef3fc9bb22f",
+        "zdroj": "Jak s tím pohnu"
+    },
     "s_malirem_evropa": {
         "rgb": [
             "#e975b2",
@@ -31,6 +44,8 @@
     },
     "s_malirem_rio": {
         "rgb": [
+            "#7C8CCE",
+            "#E79F74",
             "#8A7137",
             "#6F9BC6",
             "#B0CAE6",
@@ -38,9 +53,7 @@
             "#7B5A57",
             "#9F7E70",
             "#9E9F91",
-            "#E0DAB5",
-            "#E79F74",
-            "#7C8CCE"
+            "#E0DAB5"
         ],
         "online_zdroj": "https://www.digitalniknihovna.cz/mzk/view/uuid:e175ddc0-a1ca-11e2-9a9f-005056827e51?page=uuid:d5b300d0-a7ba-11e2-8c63-5ef3fc9ae867&fulltext=rio",
         "zdroj": "S malířem kolem světa"
@@ -61,17 +74,21 @@
         "online_zdroj": "https://www.digitalniknihovna.cz/mzk/view/uuid:c1777710-793f-11e4-8ce5-005056827e52?page=uuid:0be61030-b3ca-11e4-92dd-001018b5eb5c",
         "zdroj": "Už vím proč"
     },
-    "jak_s_tim_pohnu_102": {
+    "jancuv_plan": {
         "rgb": [
-            "#D6534B",
-            "#445B78",
-            "#DB842F",
-            "#70871E",
-            "#EED801",
-            "#5E2D3A",
-            "#81A9D5"
+            "#b97e67",
+            "#596C74",
+            "#979d85",
+            "#c1b07e",
+            "#ab9b8e",
+            "#cdbfa6"
         ],
-        "online_zdroj": "https://www.digitalniknihovna.cz/mzk/view/uuid:e5747fb0-81c3-11e3-a6e0-005056827e52?page=uuid:76393b40-8c63-11e3-bbb0-5ef3fc9bb22f",
-        "zdroj": "Jak s tím pohnu"
+        "online_zdroj": "https://www.digitalniknihovna.cz/mzk/view/uuid:ba4934d1-0a1e-4a01-a89d-c948477ca833?page=uuid:d22baf06-7fb6-4488-bc6f-995b644fd085",
+        "zdroj": "Jančův plán Velkého Brna"
+    },
+    "benetton95": {
+        "rgb": ["#394050","#537998","#BBA343","#A3742F","#395431","#843323"],
+        "zdroj": "Michael Schumacher",
+        "online_zdroj": "https://www.digitalniknihovna.cz/mzk/view/uuid:ea9bfd70-122c-11e4-8e0d-005056827e51?page=uuid:ea0f96b0-21a8-11e4-90aa-005056825209"
     }
 }

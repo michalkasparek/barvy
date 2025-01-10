@@ -46,7 +46,7 @@ def create_color_squares(colors, name, square_size=100, padding=10, height=60):
     # Save the image
     img.save(os.path.join('palety',f'{name}.png'))
 
-export = "Barevné škály pro grafy vytahané převážně z knižních ilustrací.\n\n"
+export = "Barevné palety vytahané z knih a dalších zdrojů.\n\n"
 
 for paleta, vlastnosti in seznam.items():
 

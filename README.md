@@ -1,4 +1,12 @@
-Barevné škály pro grafy vytahané převážně z knižních ilustrací.
+Barevné palety vytahané z knih a dalších zdrojů.
+
+## jak_s_tim_pohnu_102
+
+Zdroj: [Jak s tím pohnu](https://www.digitalniknihovna.cz/mzk/view/uuid:e5747fb0-81c3-11e3-a6e0-005056827e52?page=uuid:76393b40-8c63-11e3-bbb0-5ef3fc9bb22f)
+
+['#D6534B', '#445B78', '#DB842F', '#70871E', '#EED801', '#5E2D3A', '#81A9D5']
+
+![jak_s_tim_pohnu_102](palety/jak_s_tim_pohnu_102.png)
 
 ## s_malirem_evropa
 
@@ -20,7 +28,7 @@ Zdroj: [S malířem kolem světa](https://www.digitalniknihovna.cz/mzk/view/uuid
 
 Zdroj: [S malířem kolem světa](https://www.digitalniknihovna.cz/mzk/view/uuid:e175ddc0-a1ca-11e2-9a9f-005056827e51?page=uuid:d5b300d0-a7ba-11e2-8c63-5ef3fc9ae867&fulltext=rio)
 
-['#8A7137', '#6F9BC6', '#B0CAE6', '#F0D27B', '#7B5A57', '#9F7E70', '#9E9F91', '#E0DAB5', '#E79F74', '#7C8CCE']
+['#7C8CCE', '#E79F74', '#8A7137', '#6F9BC6', '#B0CAE6', '#F0D27B', '#7B5A57', '#9F7E70', '#9E9F91', '#E0DAB5']
 
 ![s_malirem_rio](palety/s_malirem_rio.png)
 
@@ -32,10 +40,18 @@ Zdroj: [Už vím proč](https://www.digitalniknihovna.cz/mzk/view/uuid:c1777710-
 
 ![uz_vim_proc_knihy](palety/uz_vim_proc_knihy.png)
 
-## jak_s_tim_pohnu_102
+## jancuv_plan
 
-Zdroj: [Jak s tím pohnu](https://www.digitalniknihovna.cz/mzk/view/uuid:e5747fb0-81c3-11e3-a6e0-005056827e52?page=uuid:76393b40-8c63-11e3-bbb0-5ef3fc9bb22f)
+Zdroj: [Jančův plán Velkého Brna](https://www.digitalniknihovna.cz/mzk/view/uuid:ba4934d1-0a1e-4a01-a89d-c948477ca833?page=uuid:d22baf06-7fb6-4488-bc6f-995b644fd085)
 
-['#D6534B', '#445B78', '#DB842F', '#70871E', '#EED801', '#5E2D3A', '#81A9D5']
+['#b97e67', '#596C74', '#979d85', '#c1b07e', '#ab9b8e', '#cdbfa6']
 
-![jak_s_tim_pohnu_102](palety/jak_s_tim_pohnu_102.png)
+![jancuv_plan](palety/jancuv_plan.png)
+
+## benetton95
+
+Zdroj: [Michael Schumacher](https://www.digitalniknihovna.cz/mzk/view/uuid:ea9bfd70-122c-11e4-8e0d-005056827e51?page=uuid:ea0f96b0-21a8-11e4-90aa-005056825209)
+
+['#394050', '#537998', '#BBA343', '#A3742F', '#395431', '#843323']
+
+![benetton95](palety/benetton95.png)
