@@ -7,10 +7,97 @@
             "#70871E",
             "#EED801",
             "#5E2D3A",
-            "#81A9D5"
+            "#81A9D5",
+            "#E09DA3",
+            "#FFFFE4"
         ],
-        "online_zdroj": "https://www.digitalniknihovna.cz/mzk/view/uuid:e5747fb0-81c3-11e3-a6e0-005056827e52?page=uuid:76393b40-8c63-11e3-bbb0-5ef3fc9bb22f",
-        "zdroj": "Jak s tím pohnu"
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:e5747fb0-81c3-11e3-a6e0-005056827e52?page=uuid:76393b40-8c63-11e3-bbb0-5ef3fc9bb22f",
+        "zdroj": "Jak s tím pohnu",
+        "kudos": "František Škoda"
+    },
+    "rychle_sipy_kocici_pracka": {
+        "rgb": [
+            "#BC3A5D",
+            "#2B61A2",
+            "#D1BC18",
+            "#1D5939",
+            "#812E59",
+            "#688D34",
+            "#D67BA5",
+            "#D8C6A3",
+            "#C7CE51",
+            "#8EB0CF",
+            "#ECEADC"
+        ],
+        "zdroj": "Zlaté údolí (příběhy ze starých časopisů)",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:9b1279b0-4ddc-11e3-9c86-005056827e51?page=uuid:81872710-8f0a-11e3-83a0-005056825209",
+        "kudos": "Jan Fischer"
+    },
+    "jeden_den_prazdnin_12": {
+        "rgb": [
+            "#788A98",
+            "#D15A41",
+            "#42454A",
+            "#D5B574",
+            "#A6AC83",
+            "#E0AC93",
+            "#D98D72",
+            "#E8DECA"
+        ],
+        "zdroj": "Jeden den prázdnin",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:8bc323c0-5079-11ed-bb57-005056827e52?page=uuid:a897f817-3507-4226-a48e-f244c18f661c",
+        "kudos": "Kamil Lhoták"
+    },
+    "dalekohled_124": {
+        "rgb": [
+            "#924d30",
+            "#d2c9bb",
+            "#b4777e",
+            "#c1a15e",
+            "#667255",
+            "#a46f4d",
+            "#8f867d",
+            "#7c939b",
+            "#484149",
+            "#e5dbcc"
+        ],
+        "zdroj": "Dalekohled, aneb, Kdo nevěří ať tam běží",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:3fde9240-2df4-11e6-ae84-005056827e51?page=uuid:f8f01460-3d45-11e6-ad5e-5ef3fc9bb22f",
+        "kudos": "Adolf Hoffmeister"
+    },
+    "dalekohled_8": {
+        "rgb": [
+            "#744235",
+            "#7A8C98",
+            "#B27485",
+            "#626F5F",
+            "#C0915A",
+            "#D1B367",
+            "#413940",
+            "#AE7B5C",
+            "#716966",
+            "#EDE4D6"
+        ],
+        "zdroj": "Dalekohled, aneb, Kdo nevěří ať tam běží",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:3fde9240-2df4-11e6-ae84-005056827e51?page=uuid:e9853dc0-3d45-11e6-ad5e-5ef3fc9bb22f",
+        "kudos": "Adolf Hoffmeister"
+    },
+    "dalekohled_64": {
+        "rgb": [
+            "#90a4ab",
+            "#aa6572",
+            "#6f7e65",
+            "#aa7355",
+            "#6b3c32",
+            "#889da4",
+            "#7e8b67",
+            "#9a5446",
+            "#3a3432",
+            "#ece0d0"
+        ],
+        "zdroj": "Dalekohled, aneb, Kdo nevěří ať tam běží",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:3fde9240-2df4-11e6-ae84-005056827e51?page=uuid:f03260d0-3d45-11e6-ad5e-5ef3fc9bb22f",
+        "kudos": "Adolf Hoffmeister"
     },
     "s_malirem_evropa": {
         "rgb": [
@@ -22,10 +109,12 @@
             "#ffd71b",
             "#8eba21",
             "#ae7645",
-            "#fdc578"
+            "#fdc578",
+            "#FEFEFE"
         ],
-        "online_zdroj": "https://www.digitalniknihovna.cz/mzk/view/uuid:e175ddc0-a1ca-11e2-9a9f-005056827e51?page=uuid:b4cd3840-a7ba-11e2-8c63-5ef3fc9ae867",
-        "zdroj": "S malířem kolem světa"
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:e175ddc0-a1ca-11e2-9a9f-005056827e51?page=uuid:b4cd3840-a7ba-11e2-8c63-5ef3fc9ae867",
+        "zdroj": "S malířem kolem světa",
+        "kudos": "Jiří Kalousek"
     },
     "s_malirem_5": {
         "rgb": [
@@ -37,10 +126,12 @@
             "#b7d5a9",
             "#95a8bf",
             "#b45058",
-            "#a39889"
+            "#a39889",
+            "#FEFEFE"
         ],
-        "online_zdroj": "https://www.digitalniknihovna.cz/mzk/view/uuid:e175ddc0-a1ca-11e2-9a9f-005056827e51?page=uuid:b3b90920-a7ba-11e2-8c63-5ef3fc9ae867",
-        "zdroj": "S malířem kolem světa"
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:e175ddc0-a1ca-11e2-9a9f-005056827e51?page=uuid:b3b90920-a7ba-11e2-8c63-5ef3fc9ae867",
+        "zdroj": "S malířem kolem světa",
+        "kudos": "Jiří Kalousek"
     },
     "s_malirem_rio": {
         "rgb": [
@@ -53,11 +144,20 @@
             "#7B5A57",
             "#9F7E70",
             "#9E9F91",
-            "#E0DAB5"
+            "#E0DAB5",
+            "#FEFEFE"
         ],
-        "online_zdroj": "https://www.digitalniknihovna.cz/mzk/view/uuid:e175ddc0-a1ca-11e2-9a9f-005056827e51?page=uuid:d5b300d0-a7ba-11e2-8c63-5ef3fc9ae867&fulltext=rio",
-        "zdroj": "S malířem kolem světa"
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:e175ddc0-a1ca-11e2-9a9f-005056827e51?page=uuid:d5b300d0-a7ba-11e2-8c63-5ef3fc9ae867&fulltext=rio",
+        "zdroj": "S malířem kolem světa",
+        "kudos": "Jiří Kalousek"
     },
+    "detska_encyklopedie_310": {
+        "rgb": ["#8B4D36","#60707C","#A97F4C","#93948C","#BDAC60","#8B884F","#D7CDC0"],
+        "zdroj": "Dětská encyklopedie",
+        "kudos": "Vladimír Fuka",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:82ba69f0-3b8a-11e7-8e0f-005056827e52?page=uuid:bc5b5ed0-5cff-11e7-b92d-005056827e51"
+    }
+    ,
     "uz_vim_proc_knihy": {
         "rgb": [
             "#824a42",
@@ -65,14 +165,15 @@
             "#beb47d",
             "#828f9b",
             "#98807f",
-            "#6e3d3b",
             "#a0a465",
             "#405045",
             "#93918a",
-            "#83563f"
+            "#83563f",
+            "#DCDDD6"
         ],
-        "online_zdroj": "https://www.digitalniknihovna.cz/mzk/view/uuid:c1777710-793f-11e4-8ce5-005056827e52?page=uuid:0be61030-b3ca-11e4-92dd-001018b5eb5c",
-        "zdroj": "Už vím proč"
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:c1777710-793f-11e4-8ce5-005056827e52?page=uuid:0be61030-b3ca-11e4-92dd-001018b5eb5c",
+        "zdroj": "Už vím proč",
+        "kudos": "Vojtěch Kubašta"
     },
     "jancuv_plan": {
         "rgb": [
@@ -83,12 +184,84 @@
             "#ab9b8e",
             "#cdbfa6"
         ],
-        "online_zdroj": "https://www.digitalniknihovna.cz/mzk/view/uuid:ba4934d1-0a1e-4a01-a89d-c948477ca833?page=uuid:d22baf06-7fb6-4488-bc6f-995b644fd085",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:ba4934d1-0a1e-4a01-a89d-c948477ca833?page=uuid:d22baf06-7fb6-4488-bc6f-995b644fd085",
         "zdroj": "Jančův plán Velkého Brna"
     },
     "benetton95": {
-        "rgb": ["#394050","#537998","#BBA343","#A3742F","#395431","#843323"],
+        "rgb": [
+            "#394050",
+            "#537998",
+            "#BBA343",
+            "#A3742F",
+            "#395431",
+            "#843323"
+        ],
         "zdroj": "Michael Schumacher",
-        "online_zdroj": "https://www.digitalniknihovna.cz/mzk/view/uuid:ea9bfd70-122c-11e4-8e0d-005056827e51?page=uuid:ea0f96b0-21a8-11e4-90aa-005056825209"
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:ea9bfd70-122c-11e4-8e0d-005056827e51?page=uuid:ea0f96b0-21a8-11e4-90aa-005056825209"
+    },
+    "ctyrlistek_mic": {
+        "rgb": [
+            "#C66774",
+            "#619AC1",
+            "#BCBE73",
+            "#C37583",
+            "#D6C1BF",
+            "#EDDC73",
+            "#8C8CB0",
+            "#C9D6D8",
+            "#D0A77E",
+            "#E7E5DA"
+        ],
+        "zdroj": "Čtyřlístek: Nebezpečný míč",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:d7cde440-b743-11ed-9a20-5ef3fc9bb22f?page=uuid:773ae6a0-0dfc-4619-86e0-d7260e070955"
+    },
+    "arnal_12": {
+        "rgb": [
+            "#AF4752",
+            "#01A1BC",
+            "#F1AFC5",
+            "#F89E43",
+            "#A1D3D9",
+            "#E6B095",
+            "#9CB872",
+            "#B3CBD2",
+            "#FBE597",
+            "#FCFCFD"
+        ],
+        "zdroj": "Arnal a dva dračí zuby & jiné příběhy",
+        "link": [
+            "https://www.digitalniknihovna.cz/mzk/view/uuid:60c17870-1378-11ef-aef8-5ef3fc9bb22f?page=uuid:a24e90a4-c91d-4780-86d3-99d66097ff45"
+        ]
+    },
+    "arnal_32": {
+        "rgb": [
+            "#DE4D49",
+            "#8F7B9B",
+            "#F27C55",
+            "#43335B",
+            "#F0F2ED",
+            "#BA8A72",
+            "#c1c1c1"
+        ],
+        "zdroj": "Arnal a dva dračí zuby & jiné příběhy",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:60c17870-1378-11ef-aef8-5ef3fc9bb22f?page=uuid:611cd9f8-fdb6-44d6-8c13-8f045584b85b"
+    },
+    "williams94": {
+        "rgb": [
+            "#4D5A86",
+            "#C44C4E",
+            "#C2A177"
+        ],
+        "zdroj": "Ayrton Senna",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:98d48a10-1737-11ee-8fa0-005056827e52?page=uuid:33f826ae-fb67-41f2-acbf-10c7054418f7"
+    },
+    "senna": {
+        "rgb": [
+            "#E05F54",
+            "#71996A",
+            "#FAC640"
+        ],
+        "zdroj": "Ayrton Senna",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:98d48a10-1737-11ee-8fa0-005056827e52?page=uuid:1d9c8892-1120-499e-ac25-3e071b076ce5"
     }
 }

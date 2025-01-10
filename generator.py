@@ -46,13 +46,19 @@ def create_color_squares(colors, name, square_size=100, padding=10, height=60):
     # Save the image
     img.save(os.path.join('palety',f'{name}.png'))
 
-export = "Barevné palety vytahané z knih a dalších zdrojů.\n\n"
+export = f"{len(seznam)} barevných palet vytahaných z obrázkových knih.\n\n"
 
 for paleta, vlastnosti in seznam.items():
 
     export += f"## {paleta}"
     export += "\n\n"
-    export += f"Zdroj: [{vlastnosti['zdroj']}]({vlastnosti['online_zdroj']})"
+    export += f"originál: [{vlastnosti['zdroj']}]({vlastnosti['link']})"
+    
+    try:
+        export += f", kudos: {vlastnosti['kudos']}"
+    except:
+        pass
+
     export += "\n\n"
     export += str(vlastnosti['rgb'])
     export += "\n\n"
