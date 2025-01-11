@@ -1,4 +1,4 @@
-33 barevných palet vytahaných z obrázkových knih.
+37 barevných palet vytahaných z obrázkových knih.
 
 Rychlý import palet do kódu:
 
@@ -212,6 +212,54 @@ originál: [Rozum do kapsy](https://www.digitalniknihovna.cz/mzk/view/uuid:d7cb9
 ```['#0F0F0D', '#131A14', '#191F37', '#242D60', '#B51310', '#565147', '#7F422B', '#4A682B', '#386693', '#AB7629', '#B86862', '#D0902B', '#B1ADA9']```
 
 ![rozum_do_kapsy_98_sorted](palety/rozum_do_kapsy_98_sorted.png)
+
+## nas_les
+
+originál: [Náš les](https://www.digitalniknihovna.cz/mzk/view/uuid:7a9ad190-c43a-11e2-b6da-005056827e52?page=uuid:166ceed0-342c-11e3-bd38-5ef3fc9ae867), kudos: Antonín Pospíšil
+
+```['#7C4F2E', '#406A55', '#B2C5A4', '#EECE54', '#14150F', '#FFFBDB']```
+
+![nas_les](palety/nas_les.png)
+
+```['#14150F', '#7C4F2E', '#406A55', '#B2C5A4', '#EECE54', '#FFFBDB']```
+
+![nas_les_sorted](palety/nas_les_sorted.png)
+
+## nas_les_plody
+
+originál: [Náš les](https://www.digitalniknihovna.cz/mzk/view/uuid:7a9ad190-c43a-11e2-b6da-005056827e52?page=uuid:250aff90-342c-11e3-bd38-5ef3fc9ae867), kudos: Antonín Pospíšil
+
+```['#C94A34', '#CF865E', '#AEBC32', '#588438', '#3B5657', '#384040', '#171515', '#F5EDE0']```
+
+![nas_les_plody](palety/nas_les_plody.png)
+
+```['#171515', '#384040', '#3B5657', '#C94A34', '#588438', '#CF865E', '#AEBC32', '#F5EDE0']```
+
+![nas_les_plody_sorted](palety/nas_les_plody_sorted.png)
+
+## nas_les_kvety
+
+originál: [Náš les](https://www.digitalniknihovna.cz/mzk/view/uuid:7a9ad190-c43a-11e2-b6da-005056827e52?page=uuid:26dfe6a0-342c-11e3-bd38-5ef3fc9ae867), kudos: Antonín Pospíšil
+
+```['#C66080', '#DFBD6E', '#C8414D', '#92A441', '#5C6A4A', '#95AE8F', '#9A7583', '#181111', '#F2E9DE']```
+
+![nas_les_kvety](palety/nas_les_kvety.png)
+
+```['#181111', '#5C6A4A', '#C8414D', '#9A7583', '#C66080', '#92A441', '#95AE8F', '#DFBD6E', '#F2E9DE']```
+
+![nas_les_kvety_sorted](palety/nas_les_kvety_sorted.png)
+
+## nas_les_ptaci
+
+originál: [Náš les](https://www.digitalniknihovna.cz/mzk/view/uuid:7a9ad190-c43a-11e2-b6da-005056827e52?page=uuid:2cbb88e0-342c-11e3-bd38-5ef3fc9ae867), kudos: Antonín Pospíšil
+
+```['#6B8EAA', '#33444C', '#D55F50', '#9CA545', '#ECD410', '#885929', '#D29257', '#B09F67', '#121212', '#ECE2D5']```
+
+![nas_les_ptaci](palety/nas_les_ptaci.png)
+
+```['#121212', '#33444C', '#885929', '#D55F50', '#6B8EAA', '#9CA545', '#B09F67', '#D29257', '#ECD410', '#ECE2D5']```
+
+![nas_les_ptaci_sorted](palety/nas_les_ptaci_sorted.png)
 
 ## narodni_soutez_velkych_dechovych_orchestru
 

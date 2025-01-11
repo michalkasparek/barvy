@@ -218,7 +218,16 @@
         "kudos": "Jiří Kalousek"
     },
     "detska_encyklopedie": {
-        "rgb": ["#BE7938","#697E45","#20353E","#A7392A","#9CB19E","#E3D45F","#0D0D0B","#DDD3AF"],
+        "rgb": [
+            "#BE7938",
+            "#697E45",
+            "#20353E",
+            "#A7392A",
+            "#9CB19E",
+            "#E3D45F",
+            "#0D0D0B",
+            "#DDD3AF"
+        ],
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:70adb3c0-db52-11e3-b110-005056827e51?page=uuid:b0bfa660-e347-11e3-bbd5-5ef3fc9bb22f",
         "zdroj": "Dětská encyklopedie",
         "kudos": "Vladimír Fuka"
@@ -238,26 +247,127 @@
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:82ba69f0-3b8a-11e7-8e0f-005056827e52?page=uuid:bc5b5ed0-5cff-11e7-b92d-005056827e51"
     },
     "rozum_do_kapsy": {
-        "rgb": ["#D83A03","#3A640F","#0F240A","#8B2704","#F9C40A","#010101","#FEE7AC"],
+        "rgb": [
+            "#D83A03",
+            "#3A640F",
+            "#0F240A",
+            "#8B2704",
+            "#F9C40A",
+            "#010101",
+            "#FEE7AC"
+        ],
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:d7cb9140-8bc6-11eb-aeb8-005056827e52?page=uuid:2518993a-c9c3-4829-8df9-68391bd3b2bc",
         "zdroj": "Rozum do kapsy",
         "kudos": "Pavel Rajský"
     },
     "rozum_do_kapsy_98": {
-        "rgb": ["#242D60","#AB7629","#4A682B","#191F37","#B51310","#131A14","#B86862","#7F422B","#D0902B","#0F0F0D","#565147","#386693","#B1ADA9"],
+        "rgb": [
+            "#242D60",
+            "#AB7629",
+            "#4A682B",
+            "#191F37",
+            "#B51310",
+            "#131A14",
+            "#B86862",
+            "#7F422B",
+            "#D0902B",
+            "#0F0F0D",
+            "#565147",
+            "#386693",
+            "#B1ADA9"
+        ],
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:d7cb9140-8bc6-11eb-aeb8-005056827e52?page=uuid:e135fcd0-ce52-427d-9c54-a2f5dc2b55a4",
         "zdroj": "Rozum do kapsy",
         "kudos": "Pavel Rajský"
     },
+    "nas_les": {
+        "rgb": [
+            "#7C4F2E",
+            "#406A55",
+            "#B2C5A4",
+            "#EECE54",
+            "#14150F",
+            "#FFFBDB"
+        ],
+        "kudos": "Antonín Pospíšil",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:7a9ad190-c43a-11e2-b6da-005056827e52?page=uuid:166ceed0-342c-11e3-bd38-5ef3fc9ae867",
+        "zdroj": "Náš les"
+    },
+    "nas_les_plody": {
+        "rgb": [
+            "#C94A34",
+            "#CF865E",
+            "#AEBC32",
+            "#588438",
+            "#3B5657",
+            "#384040",
+            "#171515",
+            "#F5EDE0"
+        ],
+        "kudos": "Antonín Pospíšil",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:7a9ad190-c43a-11e2-b6da-005056827e52?page=uuid:250aff90-342c-11e3-bd38-5ef3fc9ae867",
+        "zdroj": "Náš les"
+    },
+    "nas_les_kvety": {
+        "rgb": [
+            "#C66080",
+            "#DFBD6E",
+            "#C8414D",
+            "#92A441",
+            "#5C6A4A",
+            "#95AE8F",
+            "#9A7583",
+            "#181111",
+            "#F2E9DE"
+        ],
+        "kudos": "Antonín Pospíšil",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:7a9ad190-c43a-11e2-b6da-005056827e52?page=uuid:26dfe6a0-342c-11e3-bd38-5ef3fc9ae867",
+        "zdroj": "Náš les"
+    },
+    "nas_les_ptaci": {
+        "rgb": [
+            "#6B8EAA",
+            "#33444C",
+            "#D55F50",
+            "#9CA545",
+            "#ECD410",
+            "#885929",
+            "#D29257",
+            "#B09F67",
+            "#121212",
+            "#ECE2D5"
+        ],
+        "kudos": "Antonín Pospíšil",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:7a9ad190-c43a-11e2-b6da-005056827e52?page=uuid:2cbb88e0-342c-11e3-bd38-5ef3fc9ae867",
+        "zdroj": "Náš les"
+    },
     "narodni_soutez_velkych_dechovych_orchestru": {
-        "rgb": ["#810112","#B8A218","#021D5C","#6F8DAC","#010242","#010116","#29544B","#82998A","#C5C88E","#CBD4D3"],
+        "rgb": [
+            "#810112",
+            "#B8A218",
+            "#021D5C",
+            "#6F8DAC",
+            "#010242",
+            "#010116",
+            "#29544B",
+            "#82998A",
+            "#C5C88E",
+            "#CBD4D3"
+        ],
         "zdroj": "Jan Rajlich: Užitá grafika 1965-1985",
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:871d3060-4724-11e5-8851-005056827e51?page=uuid:4b2cab70-d712-11e5-9c26-5ef3fc9bb22f",
         "kudos": "Jan Rajlich"
-
     },
     "mesto_prace_a_pokroku_184": {
-        "rgb": ["#672A23","#547078","#83503F","#53573A","#B0ABA4","#1D1212","#D0C8BC"],
+        "rgb": [
+            "#672A23",
+            "#547078",
+            "#83503F",
+            "#53573A",
+            "#B0ABA4",
+            "#1D1212",
+            "#D0C8BC"
+        ],
         "zdroj": "Brno město práce a pokroku",
         "kudos": "Oldřich Staněk",
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:a4d267a0-78f5-11e3-9be6-005056827e52?page=uuid:819fb410-2005-11e4-8c14-5ef3fc9bb22f"
@@ -364,7 +474,12 @@
         "kudos": "Vojtěch Kubašta"
     },
     "zelezny_mita_2": {
-        "rgb": ["#B95D42","#E1AD9C","#0B0505","#FEFDDE"],
+        "rgb": [
+            "#B95D42",
+            "#E1AD9C",
+            "#0B0505",
+            "#FEFDDE"
+        ],
         "zdroj": "Železný Míťa",
         "kudos": "Jindřich Hegr",
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:c8068180-cb3b-11ea-b7a2-005056827e51?page=uuid:050a9326-a335-4af0-b742-d828a4912db3"
@@ -396,7 +511,11 @@
     },
     "devet_rychlych_muzu": {
         "rgb": [
-            "#B24E36","#54677F","#CCAD51","#191518", "#C2B4A9"
+            "#B24E36",
+            "#54677F",
+            "#CCAD51",
+            "#191518",
+            "#C2B4A9"
         ],
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:9893c1f0-796b-11e5-99af-005056827e52?page=uuid:a1a3b2c0-b488-11e5-b770-5ef3fc9ae867",
         "zdroj": "Devět rychlých mužů"
