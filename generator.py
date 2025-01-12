@@ -90,7 +90,8 @@ for f in files:
 
 vystup = {}
 
-vypis = f"""{len(vstup)} barevných palet vytahaných z obrázkových knih.\n\nRychlý import palet do kódu:\n\n1. ```wget https://github.com/michalkasparek/barvy/blob/master/barvy.json```\n\n2. ```with open('barvy.json', 'r', encoding='utf-8') as vstup:```  \n$~~~~$```vstup = json.loads(vstup.read())```\n\n3. ```barvy["název_palety"]```\n\n"""
+with open("readme_intro.md", "r", encoding="utf-8") as vypis:
+    vypis =  vypis.read().replace('xxx',str(len(vstup)))
 
 for paleta, vlastnosti in vstup.items():
 

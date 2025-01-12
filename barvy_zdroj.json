@@ -1,5 +1,5 @@
 {
-    "jak_s_tim_pohnu_102": {
+    "jak_s_tim_pohnu_kladka": {
         "rgb": [
             "#D6534B",
             "#445B78",
@@ -9,6 +9,7 @@
             "#5E2D3A",
             "#81A9D5",
             "#E09DA3",
+            "#292829",
             "#FFFFE4"
         ],
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:e5747fb0-81c3-11e3-a6e0-005056827e52?page=uuid:76393b40-8c63-11e3-bbb0-5ef3fc9bb22f",
@@ -27,6 +28,7 @@
             "#D8C6A3",
             "#C7CE51",
             "#8EB0CF",
+            "#130D15",
             "#ECEADC"
         ],
         "zdroj": "Zlaté údolí (příběhy ze starých časopisů)",
@@ -43,6 +45,7 @@
             "#D07863",
             "#9ABFDD",
             "#7A9648",
+            "#171412",
             "#F7F5DC"
         ],
         "zdroj": "Zlaté údolí (příběhy ze starých časopisů)",
@@ -60,13 +63,12 @@
             "#9CB872",
             "#B3CBD2",
             "#FBE597",
-            "#FCFCFD"
+            "#212625",
+            "#FDFDFF"
         ],
         "zdroj": "Arnal a dva dračí zuby & jiné příběhy",
         "kudos": "Kája Saudek",
-        "link": [
-            "https://www.digitalniknihovna.cz/mzk/view/uuid:60c17870-1378-11ef-aef8-5ef3fc9bb22f?page=uuid:a24e90a4-c91d-4780-86d3-99d66097ff45"
-        ]
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:60c17870-1378-11ef-aef8-5ef3fc9bb22f?page=uuid:a24e90a4-c91d-4780-86d3-99d66097ff45"
     },
     "arnal_32": {
         "rgb": [
@@ -76,7 +78,9 @@
             "#43335B",
             "#F0F2ED",
             "#BA8A72",
-            "#c1c1c1"
+            "#c1c1c1",
+            "#202622",
+            "#F1F3EE"
         ],
         "zdroj": "Arnal a dva dračí zuby & jiné příběhy",
         "kudos": "Kája Saudek",
@@ -87,13 +91,14 @@
             "#C66774",
             "#619AC1",
             "#BCBE73",
-            "#C37583",
             "#D6C1BF",
             "#EDDC73",
             "#8C8CB0",
             "#C9D6D8",
             "#D0A77E",
-            "#E7E5DA"
+            "#E7E5DA",
+            "#5D615E",
+            "#E1E4D7"
         ],
         "zdroj": "Čtyřlístek: Nebezpečný míč",
         "kudos": "Jaroslav Němeček",
@@ -103,33 +108,16 @@
         "rgb": [
             "#788A98",
             "#D15A41",
-            "#42454A",
             "#D5B574",
             "#A6AC83",
             "#E0AC93",
             "#D98D72",
+            "#3E403F",
             "#E8DECA"
         ],
         "zdroj": "Jeden den prázdnin",
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:8bc323c0-5079-11ed-bb57-005056827e52?page=uuid:a897f817-3507-4226-a48e-f244c18f661c",
         "kudos": "Kamil Lhoták"
-    },
-    "dalekohled_124": {
-        "rgb": [
-            "#924d30",
-            "#d2c9bb",
-            "#c1a15e",
-            "#667255",
-            "#a46f4d",
-            "#8f867d",
-            "#7c939b",
-            "#484149",
-            "#b4777e",
-            "#e5dbcc"
-        ],
-        "zdroj": "Dalekohled, aneb, Kdo nevěří ať tam běží",
-        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:3fde9240-2df4-11e6-ae84-005056827e51?page=uuid:f8f01460-3d45-11e6-ad5e-5ef3fc9bb22f",
-        "kudos": "Adolf Hoffmeister"
     },
     "dalekohled_8": {
         "rgb": [
@@ -165,6 +153,232 @@
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:3fde9240-2df4-11e6-ae84-005056827e51?page=uuid:f03260d0-3d45-11e6-ad5e-5ef3fc9bb22f",
         "kudos": "Adolf Hoffmeister"
     },
+    "dalekohled_112": {
+        "rgb": [
+            "#8E4930",
+            "#BF9651",
+            "#A7653F",
+            "#4A4B5F",
+            "#BD9752",
+            "#4C5B43",
+            "#36312D",
+            "#EEE0D1"
+        ],
+        "zdroj": "Dalekohled, aneb, Kdo nevěří ať tam běží",
+        "kudos": "Adolf Hoffmeister",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:3fde9240-2df4-11e6-ae84-005056827e51?page=uuid:f663c430-3d45-11e6-ad5e-5ef3fc9bb22f"
+    },
+    "dalekohled_124": {
+        "rgb": [
+            "#924d30",
+            "#d2c9bb",
+            "#c1a15e",
+            "#667255",
+            "#a46f4d",
+            "#8f867d",
+            "#7c939b",
+            "#484149",
+            "#b4777e",
+            "#e5dbcc"
+        ],
+        "zdroj": "Dalekohled, aneb, Kdo nevěří ať tam běží",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:3fde9240-2df4-11e6-ae84-005056827e51?page=uuid:f8f01460-3d45-11e6-ad5e-5ef3fc9bb22f",
+        "kudos": "Adolf Hoffmeister"
+    },
+    "uprka_pout_u_svateho_antonicka": {
+        "rgb": [
+            "#690A05",
+            "#B72D0D",
+            "#E99A2B",
+            "#879BBB",
+            "#354150",
+            "#CB9276",
+            "#313C15",
+            "#54736E",
+            "#6B6222",
+            "#F1D1BB",
+            "#080608",
+            "#F9F7E8"
+        ],
+        "zdroj": "Joža a Franta Uprkové",
+        "kudos": "Joža Uprka",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:4071a980-3d57-11e8-84e3-005056827e52?page=uuid:06042f50-6a22-11e8-bfeb-5ef3fc9bb22f"
+    },
+    "kupka_unik": {
+        "rgb": [
+            "#340830",
+            "#723155",
+            "#911B15",
+            "#B48E18",
+            "#B4A134",
+            "#285531",
+            "#637946",
+            "#030434",
+            "#295B89",
+            "#8898A0",
+            "#070120",
+            "#D1C9B3"
+        ],
+        "zdroj": "František Kupka 1871-1957",
+        "kudos": "František Kupka",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:395a6900-d035-11e7-b06b-005056827e51?page=uuid:b0b33bb0-0caa-11e8-bdb0-005056827e51"
+    },
+    "kupka_klavesy_piana_jezero": {
+        "rgb": [
+            "#3B0303",
+            "#142637",
+            "#8A1513",
+            "#676416",
+            "#9C503F",
+            "#2D2D09",
+            "#959278",
+            "#020102",
+            "#FEFAE7"
+        ],
+        "zdroj": "František Kupka 1871-1957",
+        "kudos": "František Kupka",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:395a6900-d035-11e7-b06b-005056827e51?page=uuid:b0246930-0caa-11e8-bdb0-005056827e51"
+    },
+    "stafl_havlbrod_iv": {
+        "rgb": [
+            "#933325",
+            "#424D69",
+            "#5A5E4B",
+            "#A07260",
+            "#9F8455",
+            "#343543",
+            "#AB6E39",
+            "#151412",
+            "#AAA397"
+        ],
+        "zdroj": "Šestnáct akvarelů z Havlíčkova Brodu",
+        "kudos": "Otakar Štáfl",
+        "link": "https://ndk.cz/view/uuid:ed07a3a0-ca09-11ec-aafc-005056827e52?page=uuid:33f437c4-e96d-4f32-932f-7007c19f3703"
+    },
+    "solarik_na_okraji_prahy": {
+        "rgb": [
+            "#AD4439",
+            "#343E50",
+            "#3C4B2B",
+            "#C59553",
+            "#802F2A",
+            "#748852",
+            "#C9B276",
+            "#44616E",
+            "#C09D95",
+            "#141315",
+            "#FEFEFE"
+        ],
+        "zdroj": "Dva světy Karla Solaříka",
+        "kudos": "Karel Solařík",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:a4604880-8bae-11e2-8593-005056827e52?page=uuid:adaa9d9d-da30-49fb-9605-688df485efd5"
+    },
+    "holan_fotbalove_hriste": {
+        "rgb": [
+            "#064519",
+            "#7c1216",
+            "#b82f30",
+            "#3e6520",
+            "#00356d",
+            "#73869e",
+            "#636f62",
+            "#ac7203",
+            "#d2912a",
+            "#e67860",
+            "#232022",
+            "#cdcec7"
+        ],
+        "zdroj": "Fotbalové hřiště (Cirkus, Nedělní odpoledne)",
+        "kudos": "Karel Holan",
+        "link": "https://sbirky.gavu.cz/art/fotbalove-hriste-cirkus-nedelni-odpoledne-13423.html"
+    },
+    "fila_zatisi": {
+        "rgb": [
+            "#d9c165",
+            "#1d3c6b",
+            "#133e32",
+            "#e6c9c5",
+            "#bd7c81",
+            "#f49b02",
+            "#8c4851",
+            "#5a302a",
+            "#77a2b1",
+            "#5c4136",
+            "#aac5b7",
+            "#acb0a7",
+            "#11120f",
+            "#f9f5eb"
+        ],
+        "zdroj": "Zátiší",
+        "kudos": "Emil Filla",
+        "link": "https://sbirky.gavu.cz/art/zatisi-13159.html"
+    },
+    "hudecek_nocni_chodec": {
+        "rgb": [
+            "#48a385",
+            "#05746b",
+            "#8db768",
+            "#be655e",
+            "#cd8570",
+            "#ebb842",
+            "#885e45",
+            "#2c5377",
+            "#647799",
+            "#6f8685",
+            "#3d3c3b",
+            "#f0c895"
+        ],
+        "kudos": "František Hudeček",
+        "zdroj": "Noční chodec",
+        "link": "https://sbirky.gavu.cz/art/nocni-chodec-13126.html"
+    },
+    "kolar_dostihy": {
+        "rgb": [
+            "#335ca5",
+            "#9f3a90",
+            "#d33c5f",
+            "#df635d",
+            "#34a6a8",
+            "#67a587",
+            "#e57439",
+            "#d0af39",
+            "#6498b1",
+            "#e3caa1",
+            "#a6624b",
+            "#464547",
+            "#f5e9d4"
+        ],
+        "kudos": "Radomír Kolář",
+        "zdroj": "Dostihy",
+        "link": "https://sbirky.gavu.cz/art/dostihy-21108.html"
+    },
+    "typlt_zememeric": {
+        "rgb": ["#e60000","#e5db00","#9cc002","#21a055","#001f80","#e49996","#a7ddd6","#00709c","#412747","#6f4693","#033c46","#050c19","#e6e6e4"],
+        "kudos": "Lubomír Typlt",
+        "zdroj": "Zeměměřič",
+        "link": "https://sbirky.gavu.cz/art/zememeric-23944.html"
+    },
+    "kadrnozka_jibacoa": {
+        "rgb": ["#cd5a60","#8dc9d2","#8383a0","#f4abae","#717357","#fee977","#c4d897","#faf9f0","#524b4c"],
+        "kudos": "Dimitrij Kadrnožka",
+        "zdroj": "Jibacoa",
+        "link": "https://sbirky.gavu.cz/art/jibacoa-20813.html"
+    },
+    "zlate_kvety": {
+        "rgb": [
+            "#923644",
+            "#5B6C86",
+            "#9E9B74",
+            "#C29560",
+            "#B48A9A",
+            "#A9514F",
+            "#BD8466",
+            "#3E3543",
+            "#CAB49A"
+        ],
+        "zdroj": "Zlaté květy",
+        "link": "https://ndk.cz/view/uuid:3ce7ee90-e3fc-11ed-b90f-005056827e52?page=uuid:8dee3788-c131-49de-be8a-ee481d8ad861"
+    },
     "s_malirem_evropa": {
         "rgb": [
             "#e975b2",
@@ -176,13 +390,14 @@
             "#8eba21",
             "#ae7645",
             "#fdc578",
+            "#4B4843",
             "#FEFEFE"
         ],
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:e175ddc0-a1ca-11e2-9a9f-005056827e51?page=uuid:b4cd3840-a7ba-11e2-8c63-5ef3fc9ae867",
         "zdroj": "S malířem kolem světa",
         "kudos": "Jiří Kalousek"
     },
-    "s_malirem_5": {
+    "s_malirem_pristav": {
         "rgb": [
             "#d94b60",
             "#687fa9",
@@ -193,6 +408,7 @@
             "#95a8bf",
             "#b45058",
             "#a39889",
+            "#1B1417",
             "#FEFEFE"
         ],
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:e175ddc0-a1ca-11e2-9a9f-005056827e51?page=uuid:b3b90920-a7ba-11e2-8c63-5ef3fc9ae867",
@@ -202,15 +418,18 @@
     "s_malirem_rio": {
         "rgb": [
             "#7C8CCE",
+            "#E7666E",
+            "#FDD22B",
             "#E79F74",
-            "#8A7137",
-            "#6F9BC6",
-            "#B0CAE6",
+            "#7CA6E1",
             "#F0D27B",
             "#7B5A57",
+            "#B0CAE6",
             "#9F7E70",
+            "#90C1F5",
             "#9E9F91",
             "#E0DAB5",
+            "#382F22",
             "#FEFEFE"
         ],
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:e175ddc0-a1ca-11e2-9a9f-005056827e51?page=uuid:d5b300d0-a7ba-11e2-8c63-5ef3fc9ae867&fulltext=rio",
@@ -240,6 +459,7 @@
             "#93948C",
             "#BDAC60",
             "#8B884F",
+            "#34322E",
             "#D7CDC0"
         ],
         "zdroj": "Dětská encyklopedie",
@@ -265,16 +485,15 @@
             "#242D60",
             "#AB7629",
             "#4A682B",
-            "#191F37",
             "#B51310",
-            "#131A14",
             "#B86862",
             "#7F422B",
             "#D0902B",
-            "#0F0F0D",
             "#565147",
             "#386693",
-            "#B1ADA9"
+            "#B1ADA9",
+            "#0F0F0D",
+            "#D1C0A4"
         ],
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:d7cb9140-8bc6-11eb-aeb8-005056827e52?page=uuid:e135fcd0-ce52-427d-9c54-a2f5dc2b55a4",
         "zdroj": "Rozum do kapsy",
@@ -348,11 +567,11 @@
             "#021D5C",
             "#6F8DAC",
             "#010242",
-            "#010116",
             "#29544B",
             "#82998A",
             "#C5C88E",
-            "#CBD4D3"
+            "#010116",
+            "#CFD6D3"
         ],
         "zdroj": "Jan Rajlich: Užitá grafika 1965-1985",
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:871d3060-4724-11e5-8851-005056827e51?page=uuid:4b2cab70-d712-11e5-9c26-5ef3fc9bb22f",
@@ -388,7 +607,7 @@
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:aca48920-54a5-11e6-ab2f-005056827e52?page=uuid:ac3f1a20-76df-11e6-8340-5ef3fc9ae867",
         "kudos": "Josef Lada"
     },
-    "josef_lada_detem_leto": {
+    "lada_leto": {
         "rgb": [
             "#98B5A1",
             "#71351E",
@@ -425,6 +644,8 @@
             "#B44350",
             "#FAE204",
             "#86A82A",
+            "#FCF7E9",
+            "#353130",
             "#FEFFFA"
         ],
         "kudos": "Jan Schmid",
@@ -437,24 +658,26 @@
             "#548EC1",
             "#FEF325",
             "#3C3833",
-            "#FEFFFA"
+            "#333430",
+            "#FFFFFB"
         ],
         "kudos": "Jan Schmid",
         "zdroj": "Pět olympijských kruhů",
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:fd622800-21c1-11e3-a5bb-005056827e52?page=uuid:89091e70-35f6-11e3-b62e-005056825209"
     },
-    "pet_olympijskych_kruhu_417": {
+    "pet_olympijskych_kruhu_318": {
         "rgb": [
-            "#55891E",
-            "#5791BF",
-            "#E27648",
-            "#FDE70E",
-            "#3C3833",
-            "#FEFFFA"
+            "#65A8CD",
+            "#D66847",
+            "#DC7C49",
+            "#E06AA7",
+            "#649515",
+            "#42403D",
+            "#FFFFF7"
         ],
         "kudos": "Jan Schmid",
         "zdroj": "Pět olympijských kruhů",
-        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:fd622800-21c1-11e3-a5bb-005056827e52?page=uuid:a2ec29e0-35f6-11e3-b62e-005056825209"
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:fd622800-21c1-11e3-a5bb-005056827e52?page=uuid:9585fce0-35f6-11e3-b62e-005056825209"
     },
     "uz_vim_proc_knihy": {
         "rgb": [
@@ -467,6 +690,7 @@
             "#405045",
             "#93918a",
             "#83563f",
+            "#42403D",
             "#DCDDD6"
         ],
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:c1777710-793f-11e4-8ce5-005056827e52?page=uuid:0be61030-b3ca-11e4-92dd-001018b5eb5c",
@@ -491,6 +715,7 @@
             "#979d85",
             "#c1b07e",
             "#ab9b8e",
+            "#403E3B",
             "#cdbfa6"
         ],
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:ba4934d1-0a1e-4a01-a89d-c948477ca833?page=uuid:d22baf06-7fb6-4488-bc6f-995b644fd085",
@@ -503,7 +728,7 @@
             "#96ADB2",
             "#A3BCBE",
             "#131410",
-            "#DEDEDF"
+            "#E5E5E5"
         ],
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:f466f0f0-871b-11e2-b6e7-001018b5eb5c?page=uuid:abf360e1-edb0-b433-d50c-95d079751f3a",
         "kudos": "Vladimir 518",
