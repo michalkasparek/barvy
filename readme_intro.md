@@ -11,5 +11,5 @@ $~~~~$```vstup = json.loads(vstup.read())```
 
 U naprosté většiny palet je předposlední barva v seznamu černá (či nejtmavší barva na stránce) a poslední bílá (či nejsvětlejší barva na stránce).
 
-Vedle výchozí ručně poskládané palety se generuje ještě seznam ```název_palety_sorted``` poskládaný od nejsytější (typicky černé) po nejméně sytou (typicky bílé).
+Vedle výchozí ručně poskládané palety se generuje ještě seznam ```název_palety_sorted``` poskládaný od nejsytější (typicky černé) po nejméně sytou (typicky bílou).
 
