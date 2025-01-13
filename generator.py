@@ -132,6 +132,6 @@ with open('README.md', 'w+', encoding='utf-8') as readme:
     readme.write(vypis.strip())
 
 with open('barvy.json', 'w+', encoding='utf-8') as export:
-    export.write(json.dumps(vystup, sort_keys=True, indent=4))
+    export.write(json.dumps(vystup, sort_keys=True))
 
 print("Fertig.")

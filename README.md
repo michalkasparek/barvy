@@ -4,20 +4,20 @@
  
 1. ```wget https://github.com/michalkasparek/barvy/blob/master/barvy.json```
 
-2. ```with open('barvy.json', 'r', encoding='utf-8') as vstup:```  
-$~~~~$```vstup = json.loads(vstup.read())```
+2. ```with open('barvy.json', 'r', encoding='utf-8') as barvy:```  
+$~~~~$```barvy = json.loads(vstup.read())```
 
 3. ```barvy["název_palety"]```
 
 U naprosté většiny palet je předposlední barva v seznamu černá (či nejtmavší barva na stránce) a poslední bílá (či nejsvětlejší barva na stránce).
 
-Vedle výchozí ručně poskládané palety se generuje ještě seznam ```název_palety_sorted``` poskládaný od nejsytější (typicky černé) po nejméně sytou (typicky bílé).
+Vedle výchozí ručně poskládané palety se generuje ještě seznam ```název_palety_sorted``` poskládaný od nejtmavější (typicky černé) po nejsvětlejší (typicky bílou).
 
 ## jak_s_tim_pohnu_kladka
 
 originál: [Jak s tím pohnu](https://www.digitalniknihovna.cz/mzk/view/uuid:e5747fb0-81c3-11e3-a6e0-005056827e52?page=uuid:76393b40-8c63-11e3-bbb0-5ef3fc9bb22f), kudos: František Škoda
 
-```['#D6534B', '#445B78', '#DB842F', '#70871E', '#EED801', '#5E2D3A', '#81A9D5', '#E09DA3', '#292829', '#FFFFE4']```
+```['#D6534B', '#445B78', '#DB842F', '#70871E', '#E09DA3', '#81A9D5', '#5E2D3A', '#EED801', '#292829', '#FFFFE4']```
 
 ![jak_s_tim_pohnu_kladka](palety/jak_s_tim_pohnu_kladka.png)
 
@@ -29,7 +29,7 @@ originál: [Jak s tím pohnu](https://www.digitalniknihovna.cz/mzk/view/uuid:e57
 
 originál: [Zlaté údolí (příběhy ze starých časopisů)](https://www.digitalniknihovna.cz/mzk/view/uuid:9b1279b0-4ddc-11e3-9c86-005056827e51?page=uuid:81872710-8f0a-11e3-83a0-005056825209), kudos: Jan Fischer
 
-```['#BC3A5D', '#2B61A2', '#D1BC18', '#1D5939', '#812E59', '#688D34', '#D67BA5', '#D8C6A3', '#C7CE51', '#8EB0CF', '#130D15', '#ECEADC']```
+```['#BC3A5D', '#2B61A2', '#D1BC18', '#1D5939', '#D67BA5', '#812E59', '#688D34', '#D8C6A3', '#C7CE51', '#8EB0CF', '#130D15', '#ECEADC']```
 
 ![rychle_sipy_kocici_pracka_chysta_lecku](palety/rychle_sipy_kocici_pracka_chysta_lecku.png)
 
@@ -305,11 +305,11 @@ originál: [S malířem kolem světa](https://www.digitalniknihovna.cz/mzk/view/
 
 originál: [S malířem kolem světa](https://www.digitalniknihovna.cz/mzk/view/uuid:e175ddc0-a1ca-11e2-9a9f-005056827e51?page=uuid:b3b90920-a7ba-11e2-8c63-5ef3fc9ae867), kudos: Jiří Kalousek
 
-```['#d94b60', '#687fa9', '#e3d83b', '#84c0e4', '#cf556b', '#b7d5a9', '#95a8bf', '#b45058', '#a39889', '#1B1417', '#FEFEFE']```
+```['#d94b60', '#687fa9', '#e3d83b', '#84c0e4', '#cf556b', '#b7d5a9', '#F2AB74', '#789256', '#95a8bf', '#b45058', '#a39889', '#1B1417', '#FEFEFE']```
 
 ![s_malirem_pristav](palety/s_malirem_pristav.png)
 
-```['#1B1417', '#b45058', '#d94b60', '#cf556b', '#687fa9', '#a39889', '#95a8bf', '#84c0e4', '#b7d5a9', '#e3d83b', '#FEFEFE']```
+```['#1B1417', '#b45058', '#d94b60', '#cf556b', '#687fa9', '#789256', '#a39889', '#95a8bf', '#84c0e4', '#F2AB74', '#b7d5a9', '#e3d83b', '#FEFEFE']```
 
 ![s_malirem_pristav_sorted](palety/s_malirem_pristav_sorted.png)
 
