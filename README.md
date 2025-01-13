@@ -1,13 +1,13 @@
-50 barevných palet vytahaných z knižních ilustrací a obrazů.
+51 barevných palet vytahaných z knižních ilustrací a obrazů.
  
  Rychlý import palet do kódu:
  
-1. ```wget https://github.com/michalkasparek/barvy/blob/master/barvy.json```
+1. ```wget https://raw.githubusercontent.com/michalkasparek/barvy/refs/heads/master/barvy.json```
 
-2. ```with open('barvy.json', 'r', encoding='utf-8') as barvy:```  
-$~~~~$```barvy = json.loads(vstup.read())```
+2. ```with open('barvy.json', 'r', encoding='utf-8') as palety:```  
+$~~~~$```palety = json.loads(palety.read())```
 
-3. ```barvy["název_palety"]```
+3. ```palety["název_palety"]```
 
 U naprosté většiny palet je předposlední barva v seznamu černá (či nejtmavší barva na stránce) a poslední bílá (či nejsvětlejší barva na stránce).
 
@@ -144,6 +144,18 @@ originál: [Dalekohled, aneb, Kdo nevěří ať tam běží](https://www.digital
 ```['#484149', '#924d30', '#667255', '#a46f4d', '#8f867d', '#b4777e', '#7c939b', '#c1a15e', '#d2c9bb', '#e5dbcc']```
 
 ![dalekohled_124_sorted](palety/dalekohled_124_sorted.png)
+
+## sykora_krajina
+
+originál: [Proměny krajiny v českém malířství 20. století](https://ndk.cz/view/uuid:85c0f270-0756-11ed-be1c-5ef3fc9bb22f?page=uuid:1f5516fb-ccfd-473f-92c2-5796980c4f64), kudos: Zdeněk Sýkora
+
+```['#B25342', '#4D688C', '#49746A', '#778C63', '#B6995D', '#D6B599', '#694D51', '#A9AAC0', '#374047', '#DFD9CE']```
+
+![sykora_krajina](palety/sykora_krajina.png)
+
+```['#374047', '#694D51', '#4D688C', '#49746A', '#B25342', '#778C63', '#B6995D', '#A9AAC0', '#D6B599', '#DFD9CE']```
+
+![sykora_krajina_sorted](palety/sykora_krajina_sorted.png)
 
 ## uprka_pout_u_svateho_antonicka
 

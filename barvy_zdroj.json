@@ -185,6 +185,12 @@
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:3fde9240-2df4-11e6-ae84-005056827e51?page=uuid:f8f01460-3d45-11e6-ad5e-5ef3fc9bb22f",
         "kudos": "Adolf Hoffmeister"
     },
+    "sykora_krajina": {
+        "rgb": ["#B25342","#4D688C","#49746A","#778C63","#B6995D","#D6B599","#694D51","#A9AAC0","#374047","#DFD9CE"],
+        "kudos": "Zdeněk Sýkora",
+        "zdroj": "Proměny krajiny v českém malířství 20. století",
+        "link": "https://ndk.cz/view/uuid:85c0f270-0756-11ed-be1c-5ef3fc9bb22f?page=uuid:1f5516fb-ccfd-473f-92c2-5796980c4f64"
+    },
     "uprka_pout_u_svateho_antonicka": {
         "rgb": [
             "#690A05",
