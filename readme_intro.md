@@ -2,7 +2,7 @@ xxx barevných palet vytahaných z knižních ilustrací a obrazů.
  
  Rychlý import palet do kódu:
  
-1. ```wget https://github.com/michalkasparek/barvy/blob/master/barvy.json```
+1. ```wget https://raw.githubusercontent.com/michalkasparek/barvy/refs/heads/master/barvy.json```
 
 2. ```with open('barvy.json', 'r', encoding='utf-8') as barvy:```  
 $~~~~$```barvy = json.loads(vstup.read())```
