@@ -186,7 +186,18 @@
         "kudos": "Adolf Hoffmeister"
     },
     "sykora_krajina": {
-        "rgb": ["#B25342","#4D688C","#49746A","#778C63","#B6995D","#D6B599","#694D51","#A9AAC0","#374047","#DFD9CE"],
+        "rgb": [
+            "#B25342",
+            "#4D688C",
+            "#49746A",
+            "#778C63",
+            "#B6995D",
+            "#D6B599",
+            "#694D51",
+            "#A9AAC0",
+            "#374047",
+            "#DFD9CE"
+        ],
         "kudos": "Zdeněk Sýkora",
         "zdroj": "Proměny krajiny v českém malířství 20. století",
         "link": "https://ndk.cz/view/uuid:85c0f270-0756-11ed-be1c-5ef3fc9bb22f?page=uuid:1f5516fb-ccfd-473f-92c2-5796980c4f64"
@@ -359,13 +370,55 @@
         "link": "https://sbirky.gavu.cz/art/dostihy-21108.html"
     },
     "typlt_zememeric": {
-        "rgb": ["#e60000","#e5db00","#9cc002","#21a055","#001f80","#e49996","#a7ddd6","#00709c","#412747","#6f4693","#033c46","#050c19","#e6e6e4"],
+        "rgb": [
+            "#e60000",
+            "#e5db00",
+            "#9cc002",
+            "#21a055",
+            "#001f80",
+            "#e49996",
+            "#a7ddd6",
+            "#00709c",
+            "#412747",
+            "#6f4693",
+            "#033c46",
+            "#050c19",
+            "#e6e6e4"
+        ],
         "kudos": "Lubomír Typlt",
         "zdroj": "Zeměměřič",
         "link": "https://sbirky.gavu.cz/art/zememeric-23944.html"
     },
+    "majernik_zabijacka": {
+        "rgb": [
+            "#BF888D",
+			"#BBA39E",
+			"#334340",
+			"#427263",
+			"#4F2B20",
+			"#AC7138",
+			"#153278",
+			"#1C1A27",
+			"#C6BEB3"
+			
+            
+        ],
+        "kudos": "Cyprián Majerník",
+        "zdroj": "Zabíjačka",
+        "link": "https://sbirky.ngprague.cz/dielo/CZE:NG.O_8353"
+    },
     "kadrnozka_jibacoa": {
-        "rgb": ["#cd5a60","#8dc9d2","#8383a0","#f4abae","#717357","#fee977","#c4d897","#faf9f0","#524b4c"],
+        "rgb": [
+            "#cd5a60",
+            "#8dc9d2",
+            "#8383a0",
+            "#f4abae",
+            "#717357",
+            "#fee977",
+            "#c4d897",
+            "#faf9f0",
+            "#524b4c"
+        ],
         "kudos": "Dimitrij Kadrnožka",
         "zdroj": "Jibacoa",
         "link": "https://sbirky.gavu.cz/art/jibacoa-20813.html"
@@ -403,9 +456,28 @@
         "zdroj": "S malířem kolem světa",
         "kudos": "Jiří Kalousek"
     },
+    "s_malirem_usa": {
+        "rgb": [
+            "#c1b263",
+            "#924d3a",
+            "#738ba0",
+            "#6f8055",
+            "#a07344",
+            "#9ba098",
+            "#4b644b",
+            "#9aaeab",
+            "#bfb39b",
+            "#2c2a2e",
+            "#e3e0db"
+        ],
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:f4c726f0-79b5-11e2-b930-005056827e51?page=uuid:78768a90-a062-11e2-9142-5ef3fc9bb22f",
+        "zdroj": "S malířem kolem světa",
+        "kudos": "Jiří Kalousek"
+    },
     "s_malirem_pristav": {
         "rgb": [
-            "#d94b60",
+            "#D74862",
+            "#994D56",
             "#687fa9",
             "#e3d83b",
             "#84c0e4",
@@ -423,20 +495,20 @@
         "zdroj": "S malířem kolem světa",
         "kudos": "Jiří Kalousek"
     },
-    "s_malirem_rio": {
+    "s_malirem_brazilie": {
         "rgb": [
             "#7C8CCE",
             "#E7666E",
-            "#FDD22B",
             "#E79F74",
             "#7CA6E1",
-            "#F0D27B",
             "#7B5A57",
             "#B0CAE6",
-            "#9F7E70",
+            "#516752",
+            "#bcc9d2",
+            "#97545d",
+            "#5a7289",
             "#90C1F5",
             "#9E9F91",
-            "#E0DAB5",
             "#382F22",
             "#FEFEFE"
         ],
@@ -554,10 +626,14 @@
     "nas_les_ptaci": {
         "rgb": [
             "#6B8EAA",
+            "#ba4c43",
+            "#803231",
+            "#9eb8c1",
             "#33444C",
             "#D55F50",
             "#9CA545",
             "#ECD410",
+            "#b4ced2",
             "#885929",
             "#D29257",
             "#B09F67",
@@ -567,6 +643,28 @@
         "kudos": "Antonín Pospíšil",
         "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:7a9ad190-c43a-11e2-b6da-005056827e52?page=uuid:2cbb88e0-342c-11e3-bd38-5ef3fc9ae867",
         "zdroj": "Náš les"
+    },
+    "tomikovy_objevy": {
+        "rgb": [
+            "#4f8299",
+            "#f19b73",
+            "#a2bf26",
+            "#8cc3db",
+            "#fae41f",
+            "#4f6ab6",
+            "#d66c6f",
+            "#ce83b0",
+            "#79aa3f",
+            "#f4776f",
+            "#b3debc",
+            "#99664f",
+            "#fcfb1b",
+            "#3f3f3e",
+            "#fefdfe"
+        ],
+        "zdroj": "Tomíkovy objevy",
+        "kudos": "Gérard Grée",
+        "link": "https://www.digitalniknihovna.cz/mzk/view/uuid:e7570d30-df4b-11e3-b110-005056827e51?page=uuid:34d0bd80-efd3-11e3-adbd-5ef3fc9bb22f"
     },
     "narodni_soutez_velkych_dechovych_orchestru": {
         "rgb": [

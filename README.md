@@ -1,4 +1,4 @@
-51 barevných palet vytahaných z knižních ilustrací a obrazů.
+54 barevných palet vytahaných z knižních ilustrací a obrazů.
  
  Rychlý import palet do kódu:
  
@@ -277,6 +277,18 @@ originál: [Zeměměřič](https://sbirky.gavu.cz/art/zememeric-23944.html), kud
 
 ![typlt_zememeric_sorted](palety/typlt_zememeric_sorted.png)
 
+## majernik_zabijacka
+
+originál: [Zabíjačka](https://sbirky.ngprague.cz/dielo/CZE:NG.O_8353), kudos: Cyprián Majerník
+
+```['#BF888D', '#BBA39E', '#334340', '#427263', '#4F2B20', '#AC7138', '#153278', '#1C1A27', '#C6BEB3']```
+
+![majernik_zabijacka](palety/majernik_zabijacka.png)
+
+```['#1C1A27', '#153278', '#4F2B20', '#334340', '#427263', '#AC7138', '#BF888D', '#BBA39E', '#C6BEB3']```
+
+![majernik_zabijacka_sorted](palety/majernik_zabijacka_sorted.png)
+
 ## kadrnozka_jibacoa
 
 originál: [Jibacoa](https://sbirky.gavu.cz/art/jibacoa-20813.html), kudos: Dimitrij Kadrnožka
@@ -313,29 +325,41 @@ originál: [S malířem kolem světa](https://www.digitalniknihovna.cz/mzk/view/
 
 ![s_malirem_evropa_sorted](palety/s_malirem_evropa_sorted.png)
 
+## s_malirem_usa
+
+originál: [S malířem kolem světa](https://www.digitalniknihovna.cz/mzk/view/uuid:f4c726f0-79b5-11e2-b930-005056827e51?page=uuid:78768a90-a062-11e2-9142-5ef3fc9bb22f), kudos: Jiří Kalousek
+
+```['#c1b263', '#924d3a', '#738ba0', '#6f8055', '#a07344', '#9ba098', '#4b644b', '#9aaeab', '#bfb39b', '#2c2a2e', '#e3e0db']```
+
+![s_malirem_usa](palety/s_malirem_usa.png)
+
+```['#2c2a2e', '#4b644b', '#924d3a', '#6f8055', '#a07344', '#738ba0', '#9ba098', '#9aaeab', '#c1b263', '#bfb39b', '#e3e0db']```
+
+![s_malirem_usa_sorted](palety/s_malirem_usa_sorted.png)
+
 ## s_malirem_pristav
 
 originál: [S malířem kolem světa](https://www.digitalniknihovna.cz/mzk/view/uuid:e175ddc0-a1ca-11e2-9a9f-005056827e51?page=uuid:b3b90920-a7ba-11e2-8c63-5ef3fc9ae867), kudos: Jiří Kalousek
 
-```['#d94b60', '#687fa9', '#e3d83b', '#84c0e4', '#cf556b', '#b7d5a9', '#F2AB74', '#789256', '#95a8bf', '#b45058', '#a39889', '#1B1417', '#FEFEFE']```
+```['#D74862', '#994D56', '#687fa9', '#e3d83b', '#84c0e4', '#cf556b', '#b7d5a9', '#F2AB74', '#789256', '#95a8bf', '#b45058', '#a39889', '#1B1417', '#FEFEFE']```
 
 ![s_malirem_pristav](palety/s_malirem_pristav.png)
 
-```['#1B1417', '#b45058', '#d94b60', '#cf556b', '#687fa9', '#789256', '#a39889', '#95a8bf', '#84c0e4', '#F2AB74', '#b7d5a9', '#e3d83b', '#FEFEFE']```
+```['#1B1417', '#994D56', '#b45058', '#D74862', '#cf556b', '#687fa9', '#789256', '#a39889', '#95a8bf', '#84c0e4', '#F2AB74', '#b7d5a9', '#e3d83b', '#FEFEFE']```
 
 ![s_malirem_pristav_sorted](palety/s_malirem_pristav_sorted.png)
 
-## s_malirem_rio
+## s_malirem_brazilie
 
 originál: [S malířem kolem světa](https://www.digitalniknihovna.cz/mzk/view/uuid:e175ddc0-a1ca-11e2-9a9f-005056827e51?page=uuid:d5b300d0-a7ba-11e2-8c63-5ef3fc9ae867&fulltext=rio), kudos: Jiří Kalousek
 
-```['#7C8CCE', '#E7666E', '#FDD22B', '#E79F74', '#7CA6E1', '#F0D27B', '#7B5A57', '#B0CAE6', '#9F7E70', '#90C1F5', '#9E9F91', '#E0DAB5', '#382F22', '#FEFEFE']```
+```['#7C8CCE', '#E7666E', '#E79F74', '#7CA6E1', '#7B5A57', '#B0CAE6', '#516752', '#bcc9d2', '#97545d', '#5a7289', '#90C1F5', '#9E9F91', '#382F22', '#FEFEFE']```
 
-![s_malirem_rio](palety/s_malirem_rio.png)
+![s_malirem_brazilie](palety/s_malirem_brazilie.png)
 
-```['#382F22', '#7B5A57', '#9F7E70', '#E7666E', '#7C8CCE', '#9E9F91', '#7CA6E1', '#E79F74', '#90C1F5', '#B0CAE6', '#FDD22B', '#F0D27B', '#E0DAB5', '#FEFEFE']```
+```['#382F22', '#516752', '#7B5A57', '#97545d', '#5a7289', '#E7666E', '#7C8CCE', '#9E9F91', '#7CA6E1', '#E79F74', '#90C1F5', '#B0CAE6', '#bcc9d2', '#FEFEFE']```
 
-![s_malirem_rio_sorted](palety/s_malirem_rio_sorted.png)
+![s_malirem_brazilie_sorted](palety/s_malirem_brazilie_sorted.png)
 
 ## detska_encyklopedie
 
@@ -425,13 +449,25 @@ originál: [Náš les](https://www.digitalniknihovna.cz/mzk/view/uuid:7a9ad190-c
 
 originál: [Náš les](https://www.digitalniknihovna.cz/mzk/view/uuid:7a9ad190-c43a-11e2-b6da-005056827e52?page=uuid:2cbb88e0-342c-11e3-bd38-5ef3fc9ae867), kudos: Antonín Pospíšil
 
-```['#6B8EAA', '#33444C', '#D55F50', '#9CA545', '#ECD410', '#885929', '#D29257', '#B09F67', '#121212', '#ECE2D5']```
+```['#6B8EAA', '#ba4c43', '#803231', '#9eb8c1', '#33444C', '#D55F50', '#9CA545', '#ECD410', '#b4ced2', '#885929', '#D29257', '#B09F67', '#121212', '#ECE2D5']```
 
 ![nas_les_ptaci](palety/nas_les_ptaci.png)
 
-```['#121212', '#33444C', '#885929', '#D55F50', '#6B8EAA', '#9CA545', '#B09F67', '#D29257', '#ECD410', '#ECE2D5']```
+```['#121212', '#33444C', '#803231', '#885929', '#ba4c43', '#D55F50', '#6B8EAA', '#9CA545', '#B09F67', '#D29257', '#9eb8c1', '#ECD410', '#b4ced2', '#ECE2D5']```
 
 ![nas_les_ptaci_sorted](palety/nas_les_ptaci_sorted.png)
+
+## tomikovy_objevy
+
+originál: [Tomíkovy objevy](https://www.digitalniknihovna.cz/mzk/view/uuid:e7570d30-df4b-11e3-b110-005056827e51?page=uuid:34d0bd80-efd3-11e3-adbd-5ef3fc9bb22f), kudos: Gérard Grée
+
+```['#4f8299', '#f19b73', '#a2bf26', '#8cc3db', '#fae41f', '#4f6ab6', '#d66c6f', '#ce83b0', '#79aa3f', '#f4776f', '#b3debc', '#99664f', '#fcfb1b', '#3f3f3e', '#fefdfe']```
+
+![tomikovy_objevy](palety/tomikovy_objevy.png)
+
+```['#3f3f3e', '#4f6ab6', '#99664f', '#4f8299', '#d66c6f', '#79aa3f', '#f4776f', '#ce83b0', '#a2bf26', '#f19b73', '#8cc3db', '#b3debc', '#fae41f', '#fcfb1b', '#fefdfe']```
+
+![tomikovy_objevy_sorted](palety/tomikovy_objevy_sorted.png)
 
 ## narodni_soutez_velkych_dechovych_orchestru
 

@@ -91,7 +91,7 @@ for f in files:
 vystup = {}
 
 with open("readme_intro.md", "r", encoding="utf-8") as vypis:
-    vypis =  vypis.read().replace('xxx',str(len(vstup)))
+    vypis = vypis.read().replace('xxx',str(len(vstup)))
 
 for paleta, vlastnosti in vstup.items():
 
